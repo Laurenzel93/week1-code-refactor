@@ -1,6 +1,6 @@
 # 01 HTML CSS Git: Code Refactor
 
-## User Story/My Task
+## User Story
 
 ```
 AS A marketing agency
@@ -22,3 +22,8 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+
+## My Task
+
+Clean up code to make it more concise and accessible.
